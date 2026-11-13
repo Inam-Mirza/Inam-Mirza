@@ -83,7 +83,7 @@ Design taught me to care about the details people feel without noticing. Program
       <sub><code>Python</code> &nbsp; <code>[TECH]</code></sub>
     </td>
     <td align="right" width="130">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY">Repository →</a>
+      <a href="https://github.com/fatalerror-404-app/YOUR_REPOSITORY">Repository →</a>
     </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ Design taught me to care about the details people feel without noticing. Program
       <sub><code>C++</code> &nbsp; <code>[TECH]</code></sub>
     </td>
     <td align="right" width="130">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY">Repository →</a>
+      <a href="https://github.com/fatalerror-404-app/YOUR_REPOSITORY">Repository →</a>
     </td>
   </tr>
   <tr>
@@ -116,11 +116,11 @@ Design taught me to care about the details people feel without noticing. Program
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Inam-Mirza&show_icons=true&rank_icon=github&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&icon_color=E10600&ring_color=E10600&border_color=262626" alt="GitHub stats card">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inam-MirzaE&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&border_color=262626" alt="Most used languages card">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatalerror-404-appE&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&border_color=262626" alt="Most used languages card">
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D0D0D&border=262626&stroke=262626&ring=E10600&fire=E10600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E10600&sideLabels=9A9A9A&dates=6B6B6B" alt="GitHub contribution streak">
+  <img width="98%" src="https://streak-stats.demolab.com/?user=fatalerror-404-app&background=0D0D0D&border=262626&stroke=262626&ring=E10600&fire=E10600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E10600&sideLabels=9A9A9A&dates=6B6B6B" alt="GitHub contribution streak">
 </p>
 
 <br>
