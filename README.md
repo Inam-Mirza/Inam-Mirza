@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="banner.svg" alt="Inam Ur Rehman — Graphic Designer and Aspiring Developer" width="100%">
+<img src="./assets/banner.svg" alt="Inam Ur Rehman — Graphic Designer and Aspiring Developer" width="100%">
 
 <a href="https://github.com/fatalerror-404-app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1600&color=E10600&center=true&vCenter=true&width=560&height=32&lines=Graphic+Designer+%C3%97+Aspiring+Developer;Python+%C2%B7+C%2B%2B+%C2%B7+HTML+%C2%B7+CSS;Design+with+intent.+Code+with+curiosity." alt="Animated text: Graphic Designer and Aspiring Developer. Python, C++, HTML, CSS. Design with intent, code with curiosity.">
@@ -74,7 +74,7 @@ Design taught me to care about the details people feel without noticing. Program
 
 > Placeholders — replace each entry with a real project.
 
-<table>
+<table width="100%">
   <tr>
     <td width="48" align="center"><h3>01</h3></td>
     <td>
@@ -142,5 +142,5 @@ Design taught me to care about the details people feel without noticing. Program
 <br>
 
 <div align="center">
-  <img src="footer.svg" alt="Design with intent. Code with curiosity. Inam Ur Rehman." width="100%">
+  <img src="./assets/footer.svg" alt="Design with intent. Code with curiosity. Inam Ur Rehman." width="100%">
 </div>
