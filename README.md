@@ -115,8 +115,8 @@ Design taught me to care about the details people feel without noticing. Program
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&icon_color=E10600&ring_color=E10600&border_color=262626" alt="GitHub stats card">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&border_color=262626" alt="Most used languages card">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Inam-Mirza&show_icons=true&rank_icon=github&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&icon_color=E10600&ring_color=E10600&border_color=262626" alt="GitHub stats card">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inam-MirzaE&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&border_color=262626" alt="Most used languages card">
 </p>
 
 <p align="center">
