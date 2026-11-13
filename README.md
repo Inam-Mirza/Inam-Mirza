@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<img src="banner.svg" alt="Inam Ur Rehman — Graphic Designer and Aspiring Developer" width="100%">
+<img src="./assets/banner.svg" alt="Inam Ur Rehman — Graphic Designer and Aspiring Developer" width="100%">
 
-<a href="https://github.com/Inam-Mirza">
+<a href="https://github.com/fatalerror-404-app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1600&color=E10600&center=true&vCenter=true&width=560&height=32&lines=Graphic+Designer+%C3%97+Aspiring+Developer;Python+%C2%B7+C%2B%2B+%C2%B7+HTML+%C2%B7+CSS;Design+with+intent.+Code+with+curiosity." alt="Animated text: Graphic Designer and Aspiring Developer. Python, C++, HTML, CSS. Design with intent, code with curiosity.">
 </a>
 
@@ -115,8 +115,8 @@ Design taught me to care about the details people feel without noticing. Program
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Inam-Mirza&show_icons=true&rank_icon=github&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&icon_color=E10600&ring_color=E10600&border_color=262626" alt="GitHub stats card">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatalerror-404-appE&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&border_color=262626" alt="Most used languages card">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fatalerror-404-app&show_icons=true&rank_icon=github&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&icon_color=E10600&ring_color=E10600&border_color=262626" alt="GitHub stats card">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatalerror-404-app&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=E10600&text_color=C9C9C9&border_color=262626" alt="Most used languages card">
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ Design taught me to care about the details people feel without noticing. Program
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=E10600" alt="GitHub profile"></a>
+  <a href="https://github.com/fatalerror-404-app"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=E10600" alt="GitHub profile"></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=E10600" alt="LinkedIn profile"></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=E10600" alt="Send an email"></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1C1C1C?style=for-the-badge&logo=safari&logoColor=E10600" alt="Portfolio website"></a>
@@ -142,5 +142,5 @@ Design taught me to care about the details people feel without noticing. Program
 <br>
 
 <div align="center">
-  <img src="footer.svg" alt="Design with intent. Code with curiosity. Inam Ur Rehman." width="100%">
+  <img src="./assets/footer.svg" alt="Design with intent. Code with curiosity. Inam Ur Rehman." width="100%">
 </div>
